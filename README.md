@@ -7,7 +7,7 @@ Using the original file data:
 3. Cryptocurrencies are clustered with k-means and the results are plotted.  
 
 Optimize Clusters with Principal Component Analysis:
-1. Created a PCA model and calculate the explained variance to determine a sufficient total explained variance.
+1. Created a PCA model and calculate the explained variance to determine a sufficient total explained variance (in this instance, 89.5%).
 2. Used the elbow method for the PCA data to determine the best value for k.
 3. Clustered the PCA data with k-means and plot the results.
 
