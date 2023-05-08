@@ -11,5 +11,5 @@ Optimize Clusters with Principal Component Analysis:
 2. Used the elbow method for the PCA data to determine the best value for k.
 3. Clustered the PCA data with k-means and plot the results.
 
-After visually analyzing the cluster analysis results, there is an impact of using fewer features to cluster the data using K-Means. The elbow curves are very similar, but using fewer features yields a similar result with a much cleaner scatter plot with clusters that are easier to identify.
+After visually analyzing the cluster analysis results, there is an impact of using fewer features to cluster the data using K-Means. The elbow curves are very similar (with both yielding k=4), but using fewer features yields a similar result with a much cleaner scatter plot with clusters that are easier to identify.
 ![comparison_charts.jpg](/Resources/comparison_charts.jpg "Comparison of both clustering methods")
