@@ -4,7 +4,8 @@
 Using the original file data:
 1. Using the StandardScaler() module from scikit-learn, the data from the CSV file is normalized.
 2. The elbow method is used to determine the best value for k.
-3. Cryptocurrencies are clustered with k-means and the results are plotted.
+3. Cryptocurrencies are clustered with k-means and the results are plotted.  
+
 Optimize Clusters with Principal Component Analysis:
 1. Created a PCA model and calculate the explained variance to determine a sufficient total explained variance.
 2. Used the elbow method for the PCA data to determine the best value for k.
